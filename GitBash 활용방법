@@ -15,3 +15,5 @@ Git Bash를 열고 해당 폴더로 이동합니다 (cd C:/Users/Min/eclipse-wor
 이미 클론된 Repository가 있다면, 해당 Repository 폴더로 이동합니다.
 GitHub Repository의 최신 변경 사항을 로컬 Repository로 가져옵니다 (git pull origin main). 이제 최신 버전의 프로젝트 파일을 사용할 수 있습니다.
 ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+Resposity 연동이 안되어있으면 연동하기
+git remote add origin https://github.com/ruok02/JAVA-FirstProject.git
