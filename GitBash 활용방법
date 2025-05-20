@@ -1,0 +1,3 @@
+
+로컬 master 브랜치를 main으로 변경하는 방법입니다.
+git branch -m master main
